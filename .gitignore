@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -128,3 +129,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+=======
+node_modules
+_site
+.DS_Store
+.DS_Store
+>>>>>>> 859425b (Init project)
